@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Desktop\56\CMakeFiles\ee50cd6ac95ccfd2fd1b43ccd2633d15\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\user\Desktop\assimp-master\assimp.pc.in">
+      <Filter>Buildsystem Input Files</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\cmake-modules\FindPkgMacros.cmake">
+      <Filter>Buildsystem Input Files\cmake-modules</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\cmake-modules\PrecompiledHeader.cmake">
+      <Filter>Buildsystem Input Files\cmake-modules</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\cmake-modules\assimp-plain-config.cmake.in">
+      <Filter>Buildsystem Input Files\cmake-modules</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\cmake-modules\cmake_uninstall.cmake.in">
+      <Filter>Buildsystem Input Files\cmake-modules</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\code\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\code</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\contrib\zlib\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\contrib\zlib</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\contrib\zlib\zconf.h.cmakein">
+      <Filter>Buildsystem Input Files\contrib\zlib</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\contrib\zlib\zlib.pc.cmakein">
+      <Filter>Buildsystem Input Files\contrib\zlib</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\include\assimp\config.h.in">
+      <Filter>Buildsystem Input Files\include\assimp</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\revision.h.in">
+      <Filter>Buildsystem Input Files</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\test\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\test</Filter>
+    </None>
+    <None Include="C:\Users\user\Desktop\assimp-master\test\headercheck\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\test\headercheck</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{90228B64-14D1-3D21-BBD5-7E287698CD21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{208CA615-F4B6-3796-A02A-DC47C51B955F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files">
+      <UniqueIdentifier>{690D8CBF-D0ED-32A5-8657-80E380AA34A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\cmake-modules">
+      <UniqueIdentifier>{A470E8CB-AE75-3775-9097-74E7EDD3391A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\code">
+      <UniqueIdentifier>{667F65EF-938A-3A4D-9DA9-7278209901C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\contrib\zlib">
+      <UniqueIdentifier>{E258508B-8A11-3AD0-BE0F-A1587B01031F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\include\assimp">
+      <UniqueIdentifier>{239F5322-03D7-3E00-AA11-FE33081A5EC8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\test">
+      <UniqueIdentifier>{8AA64611-068F-3FA5-A2AF-E70EC5D5AB7F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\test\headercheck">
+      <UniqueIdentifier>{2A2E560F-A680-309A-B60A-A4BB0583196E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

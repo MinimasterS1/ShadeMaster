@@ -1,0 +1,13 @@
+C:/Users/user/Desktop/56/CMakeFiles/uninstall.dir
+C:/Users/user/Desktop/56/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+C:/Users/user/Desktop/56/CMakeFiles/INSTALL.dir
+C:/Users/user/Desktop/56/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/56/CMakeFiles/ZERO_CHECK.dir
+C:/Users/user/Desktop/56/contrib/zlib/CMakeFiles/zlibstatic.dir
+C:/Users/user/Desktop/56/contrib/zlib/CMakeFiles/INSTALL.dir
+C:/Users/user/Desktop/56/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/56/code/CMakeFiles/assimp.dir
+C:/Users/user/Desktop/56/code/CMakeFiles/INSTALL.dir
+C:/Users/user/Desktop/56/test/CMakeFiles/unit.dir
+C:/Users/user/Desktop/56/test/CMakeFiles/INSTALL.dir
+C:/Users/user/Desktop/56/test/headercheck/CMakeFiles/INSTALL.dir
